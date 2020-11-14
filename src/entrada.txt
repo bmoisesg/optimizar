@@ -1,0 +1,41 @@
+t1=2019;
+t2=p + 1;
+stack[(int)t2]=t1;
+printf("\n");
+if( t1==t1) goto L25;
+goto E4; 
+L25:
+t51=h;
+h=h+1;
+heap[(int)h] = 109;
+h=h+1;
+heap[(int)h] = 97;
+h=h+1;
+heap[(int)h] = 114;
+h=h+1;
+heap[(int)h] = 105;
+h=h+1;
+heap[(int)h] = 105;
+h=h+1;
+heap[(int)h] = 116;
+h=h+1;
+E4:
+heap[(int)h] = 113;
+goto l5;
+h=h+1;
+h=h+1;
+h=h+1;
+h=h+1;
+h=h+1;
+h=h+1;
+h=h+1;
+l5:
+h=h + 2;
+if( t1==t1) goto L5;
+goto lo6;
+h=h + 3;
+if( t1!=t1) goto L5;
+goto lo6;
+h=h + 4;
+y= 0/x1;
+y= 0/x1;
